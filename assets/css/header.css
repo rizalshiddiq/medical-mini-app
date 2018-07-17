@@ -1,0 +1,27 @@
+.text-blue{
+	color: #3498db !important;
+}
+.header-blue{
+	background: #3498db !important;
+}
+.sidebar-blue{
+	background: #3498db !important;
+	color: #fff !important;
+	/*font-weight: bold !important;*/
+}
+.sidebar-blue1{
+	background: #2980b9 !important;
+	color: #fff !important;
+	/*font-weight: bold !important;*/
+}
+.sidebar-menu-blue li a{
+	background: #3498db !important;
+	color: #fff !important;
+	/*font-weight: bold !important;*/
+}
+.sidebar-menu-blue li a:hover{
+	background: #2980b9 !important;
+	color: #fff !important;
+	/*font-weight: bold !important;*/
+	border-left: 3px solid #fff !important;
+}
